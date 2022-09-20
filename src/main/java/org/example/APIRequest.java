@@ -49,7 +49,7 @@ public class APIRequest extends JFrame{
     }
 
     public APIRequest(){
-    key = "#RGAPI-5e7c0c43-1ce0-43c1-98ac-1e04bf7ce8ad";
+    key = "#HiddenForProtection";
     region = "";
     regions = new HashMap<String,String>(){{put("North America","na1");put("Oceania","oc1");put("Korea","kr");
         put("Europe Nordic & East","eun1");put("Europe West","euw1");put("Latin America North","la1");put("Turkey","tr1");
